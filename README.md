@@ -24,3 +24,15 @@ It uses:
 1. Install required packages:
    ```bash
    pip install -r requirements.txt
+
+
+--------
+
+# ⚠️ Disclaimer
+
+This script is intended for **educational and research purposes only**.
+
+Web scraping Amazon may violate their [Terms of Service](https://www.amazon.com/gp/help/customer/display.html?nodeId=201909000).  
+The author does not take any responsibility for misuse or legal consequences.  
+Use this tool responsibly and at your own risk.
+
